@@ -1,16 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Gao&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Embodied%20AI%20%C2%B7%20VLN%2FVLA%20%C2%B7%20Motion%20Planning&descSize=18&descAlignY=68&animation=fadeIn" alt="header" />
-
-<a href="mailto:ahrs365@outlook.com">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Embodied%20AI%20%2F%20VLN%20%2F%20Planning-2EA44F?style=for-the-badge" alt="Open to Work" />
-</a>
-<a href="https://www.gl-robotics.com">
-  <img src="https://img.shields.io/badge/Blog-gl--robotics.com-1F6FEB?style=for-the-badge" alt="Blog" />
-</a>
-<a href="mailto:ahrs365@outlook.com">
-  <img src="https://img.shields.io/badge/Email-ahrs365%40outlook.com-D14836?style=for-the-badge" alt="Email" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=160&section=header&text=Gao&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Embodied%20AI%20%C2%B7%20VLN%2FVLA%20%C2%B7%20Motion%20Planning&descSize=18&descAlignY=70" alt="header" />
 
 </div>
 
